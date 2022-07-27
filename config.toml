@@ -47,9 +47,9 @@ paginate = 5
       logoText = "HTE"
       logoHomeLink = "/"
     # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
+    # #
+    #  path = "images/HTELogo.png"
+    # alt = "HTE"
 
     # [languages.en.menu]
     #   [[languages.en.menu.main]]
