@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://solitary-thunder-0446.on.fleek.co"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
